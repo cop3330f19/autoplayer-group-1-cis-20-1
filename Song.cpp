@@ -1,3 +1,7 @@
+/*
+Group 1: Mario Brown
+Song.cpp
+*/
 #include "Song.h"
 #include <string>
 #include <iostream>
