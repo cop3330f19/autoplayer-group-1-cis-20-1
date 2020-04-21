@@ -1,4 +1,5 @@
 /*
+Group 1: Mario Brown
 Playlist.cpp
 */
   #include <iostream>
