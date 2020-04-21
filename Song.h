@@ -1,3 +1,7 @@
+/*
+Group 1: Mario Brown
+Song.h
+*/
 #ifndef SONG_H
 #define SONG_H
 
