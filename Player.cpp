@@ -1,3 +1,7 @@
+/*
+Group 1: Mario Brown
+Player.cpp
+*/
 #include "Song.h"
 #include <iomanip>
 #include <iostream>
