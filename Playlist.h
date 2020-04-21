@@ -1,6 +1,6 @@
 /*
-Playlist.cpp
-
+Group 1: Mario Brown
+Playlist.h
 */
 
 #ifndef PLAYLIST_H
