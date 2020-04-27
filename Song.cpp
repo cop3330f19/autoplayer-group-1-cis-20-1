@@ -1,5 +1,5 @@
 /*
-Group 1: Mario Brown
+Group 1: Mario Brown, Chris Williams, Rhiana Long, Elijah Devilme
 Song.cpp
 */
 #include "Song.h"
