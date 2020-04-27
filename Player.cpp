@@ -1,9 +1,8 @@
 /*
-Group 1: Mario Brown
+Group 1: Mario Brown, Chris Williams, Rhiana Long, Elijah Devilme
 Player.cpp
 */
 #include "Song.h"
-#include "Playlist.h"
 #include <iomanip>
 #include <iostream>
 #include <string>
@@ -21,7 +20,7 @@ int main()
   string newplaylist;
 
  
-  cout << "---------WELCOME to AutoPlayer---------" << endl;
+  cout << "----------WELCOME to the AutoPlayer----------" << endl;
   do
   {
     do
