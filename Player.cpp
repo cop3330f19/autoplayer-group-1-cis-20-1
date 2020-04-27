@@ -21,7 +21,7 @@ int main()
   string newplaylist;
 
  
-  cout << "----------WELCOME to the AutoPlayer----------" << endl;
+  cout << "---------WELCOME to AutoPlayer---------" << endl;
   do
   {
     do
