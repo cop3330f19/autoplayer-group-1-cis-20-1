@@ -1,10 +1,9 @@
 /*
-Group 1: Mario Brown
+Group 1: Mario Brown, Chris Williams, Rhiana Long, Elijah Devilme
 Song.h
 */
 #ifndef SONG_H
 #define SONG_H
-
 #include <iostream>
 #include <string>
 #include <fstream>
