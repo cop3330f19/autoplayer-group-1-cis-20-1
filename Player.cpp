@@ -3,6 +3,7 @@ Group 1: Mario Brown
 Player.cpp
 */
 #include "Song.h"
+#include "Playlist.h"
 #include <iomanip>
 #include <iostream>
 #include <string>
